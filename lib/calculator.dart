@@ -2,7 +2,6 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_simple_calculator/flutter_simple_calculator.dart';
 
-// apa saja
 class CalculatorApp extends StatelessWidget {
   const CalculatorApp({Key? key}) : super(key: key);
 
